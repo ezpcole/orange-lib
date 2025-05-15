@@ -2,9 +2,10 @@
 an easy to use up-to-date PID library
 
 # how to install:
-- put every header (.h) file inside of your include folder
-- put every main (.cpp) file inside of your src folder
-- youre done now :)
+1. download everything inside the src folder in this repository
+2. put every header (.h) file inside of your include folder
+3. put every main (.cpp) file inside of your src folder
+4. youre done now :)
 
 # how to use
 1. include namespace orange
